@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/soundz">
+        <file>explosionz.wav</file>
+        <file>Hollywoodz.mp3</file>
+    </qresource>
+</RCC>
